@@ -1,0 +1,1 @@
+Sample code for GSM module. lib folder contains modified adafruit driver. code.py contains an example of how to use said driver. Any mpy files are just official circuitpython libs
